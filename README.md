@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I'm an ACM-2023 student, currently studying Computer Science in Shanghai Jiao Tong University. 
 <!--
 **CrazyDave999/CrazyDave999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
