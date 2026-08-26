@@ -2,7 +2,9 @@
 
 🔭 I'm an ACM-2023 student, currently studying Computer Science in Shanghai Jiao Tong University. 
 
-🌱 My interests mainly lie in MLSys and AI Infra, with a focus on improving efficiency, scalability, and system-level performance.
+🌱 My interests mainly lie in ML system and AI Infra, with a focus on improving efficiency, scalability, and system-level performance.
+
+✨ I am currently intending summer intern at MIT [hanlab](https://hanlab.mit.edu/)
 
 📫 Email: luojinbin@sjtu.edu.cn
 <!--
