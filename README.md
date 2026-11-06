@@ -2,11 +2,14 @@
 
 🔭 I'm an ACM-2023 student, currently studying Computer Science in Shanghai Jiao Tong University. 
 
-🌱 My interests mainly lie in ML system and AI Infra, with a focus on improving efficiency, scalability, and system-level performance.
+🌱 My research interests lie in machine learning systems, with a focus on efficient and scalable inference for large language models. I am particularly interested in memory management and parallel execution for improving the performance and resource efficiency of LLM serving.
 
 ✨ I am currently intending summer intern at MIT [hanlab](https://hanlab.mit.edu/)
 
-📫 Email: luojinbin@sjtu.edu.cn
+💬 I am applying to PhD programs starting in Fall 2027. I would be happy to discuss potential research fit and collaboration opportunities. Please feel free to get in touch.
+
+📫 Email: luojinbin@sjtu.edu.cn | Home Page: https://crazydave999.github.io/
+
 <!--
 **CrazyDave999/CrazyDave999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
